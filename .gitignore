@@ -1,0 +1,13 @@
+.idea
+.gradle
+build
+app/build
+app/release
+beauty/build
+debug/build
+login/build
+trtcaudiocalldemo/build
+trtcliveroomdemo/build
+trtcvideocalldemo/build
+trtcmeetingdemo/build
+trtcvoiceroomdemo/build
